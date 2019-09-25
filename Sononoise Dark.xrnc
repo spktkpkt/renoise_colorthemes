@@ -46,13 +46,13 @@
   <Pattern_Highlighted_Font_Other>217,109,180</Pattern_Highlighted_Font_Other>
   <Pattern_Highlighted_Font_DspFx>204,204,204</Pattern_Highlighted_Font_DspFx>
   <Pattern_Highlighted_Font_Unused>115,115,115</Pattern_Highlighted_Font_Unused>
-  <Pattern_PlayPosition_Back>38,80,121</Pattern_PlayPosition_Back>
+  <Pattern_PlayPosition_Back>60,60,60</Pattern_PlayPosition_Back>
   <Pattern_PlayPosition_Font>255,255,255</Pattern_PlayPosition_Font>
   <Pattern_CenterBar_Back>64,70,76</Pattern_CenterBar_Back>
   <Pattern_CenterBar_Font>255,255,255</Pattern_CenterBar_Font>
   <Pattern_CenterBar_Back_StandBy>64,70,76</Pattern_CenterBar_Back_StandBy>
   <Pattern_CenterBar_Font_StandBy>255,255,255</Pattern_CenterBar_Font_StandBy>
-  <Pattern_Selection>37,80,121</Pattern_Selection>
+  <Pattern_Selection>62,106,72</Pattern_Selection>
   <Pattern_StandBy_Selection>64,70,76</Pattern_StandBy_Selection>
   <Pattern_Mute_State>197,197,197</Pattern_Mute_State>
   <Automation_Grid>100,100,100</Automation_Grid>
@@ -86,8 +86,8 @@
   <Default_Color_14>62,106,72</Default_Color_14>
   <Default_Color_15>62,106,72</Default_Color_15>
   <Default_Color_16>62,106,72</Default_Color_16>
-  <ButtonBevalAmount>1.05999994</ButtonBevalAmount>
-  <BodyBevalAmount>1.05999994</BodyBevalAmount>
+  <ButtonBevalAmount>1.06000000</ButtonBevalAmount>
+  <BodyBevalAmount>1.06000000</BodyBevalAmount>
   <ContrastAdjustment>0.0</ContrastAdjustment>
   <TextureSet>None</TextureSet>
 </SkinColors>
