@@ -28,7 +28,7 @@
   <Folder>68,72,76</Folder>
   <Pattern_Default_Back>41,44,48</Pattern_Default_Back>
   <Pattern_Default_Font>202,203,204</Pattern_Default_Font>
-  <Pattern_Default_Font_Volume>148,52,26</Pattern_Default_Font_Volume>
+  <Pattern_Default_Font_Volume>89,104,92</Pattern_Default_Font_Volume>
   <Pattern_Default_Font_Panning>105,39,122</Pattern_Default_Font_Panning>
   <Pattern_Default_Font_Pitch>144,121,96</Pattern_Default_Font_Pitch>
   <Pattern_Default_Font_Delay>81,131,153</Pattern_Default_Font_Delay>
@@ -61,15 +61,15 @@
   <Automation_Point>202,203,204</Automation_Point>
   <Automation_Marker_Play>255,255,255</Automation_Marker_Play>
   <Automation_Marker_Single>255,255,255</Automation_Marker_Single>
-  <Automation_Marker_Pair>202,203,204</Automation_Marker_Pair>
-  <Automation_Marker_Diamond>221,140,75</Automation_Marker_Diamond>
+  <Automation_Marker_Pair>192,203,204</Automation_Marker_Pair>
+  <Automation_Marker_Diamond>255,255,255</Automation_Marker_Diamond>
   <VuMeter_Meter>202,203,204</VuMeter_Meter>
-  <VuMeter_Meter_Low>67,106,76</VuMeter_Meter_Low>
-  <VuMeter_Meter_Middle>67,106,76</VuMeter_Meter_Middle>
-  <VuMeter_Meter_High>148,52,26</VuMeter_Meter_High>
+  <VuMeter_Meter_Low>126,129,132</VuMeter_Meter_Low>
+  <VuMeter_Meter_Middle>126,129,132</VuMeter_Meter_Middle>
+  <VuMeter_Meter_High>163,164,170</VuMeter_Meter_High>
   <VuMeter_Peak>202,203,204</VuMeter_Peak>
-  <VuMeter_Back_Normal>30,30,30</VuMeter_Back_Normal>
-  <VuMeter_Back_Clipped>255,13,13</VuMeter_Back_Clipped>
+  <VuMeter_Back_Normal>21,22,24</VuMeter_Back_Normal>
+  <VuMeter_Back_Clipped>148,52,26</VuMeter_Back_Clipped>
   <Default_Color_01>148,52,26</Default_Color_01>
   <Default_Color_02>148,52,26</Default_Color_02>
   <Default_Color_03>148,52,26</Default_Color_03>
